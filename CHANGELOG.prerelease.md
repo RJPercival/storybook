@@ -1,3 +1,7 @@
+## 8.1.0-beta.2
+
+- Typescript: Add types for `experimental-playwright` entries without `type:bundler` - [#27107](https://github.com/storybookjs/storybook/pull/27107), thanks @ndelangen!
+
 ## 8.1.0-beta.1
 
 - API: Add API access to sidebar renderLabel - [#27099](https://github.com/storybookjs/storybook/pull/27099), thanks @shilman!
